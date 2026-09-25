@@ -17,8 +17,6 @@
     ],
     "pantry": [
       "chicken",
-      "rice",
-      "onion",
       "scallions",
       "garlic",
       "ginger",
@@ -109,7 +107,6 @@
     ],
     "pantry": [
       "chicken",
-      "onion",
       "scallions",
       "garlic",
       "ginger",
@@ -155,7 +152,6 @@
     ],
     "pantry": [
       "salmon",
-      "onion",
       "garlic",
       "hot pepper",
       "butter"
@@ -199,7 +195,7 @@
       "1 tbsp of cornstarch dissolved in water"
     ],
     "pantry": [
-      "onion",
+      "chicken",
       "garlic",
       "ginger",
       "soy sauce",
@@ -499,8 +495,6 @@
     ],
     "pantry": [
       "salmon",
-      "rice",
-      "onion",
       "scallions",
       "garlic",
       "ginger",
@@ -711,7 +705,6 @@
     "pantry": [
       "chicken",
       "pasta",
-      "onion",
       "scallions",
       "garlic",
       "parsley",
@@ -761,7 +754,6 @@
       "chicken",
       "garlic",
       "tomato",
-      "avocado",
       "mozzarella",
       "parmesan"
     ],
@@ -1022,7 +1014,6 @@
     ],
     "pantry": [
       "chicken",
-      "rice",
       "onion",
       "garlic",
       "carrots",
@@ -1115,8 +1106,7 @@
     ],
     "pantry": [
       "beef",
-      "garlic",
-      "avocado"
+      "garlic"
     ],
     "steps": [
       "Cubethe chuck roast into even pieces. Get your pan hot with oil, then sear every side until you’ve got a deep, dark crust (tons of flavor).",
@@ -1400,7 +1390,6 @@
       "lamb",
       "potatoes",
       "onion",
-      "milk",
       "coconut milk",
       "curry paste"
     ],
@@ -1446,7 +1435,6 @@
     "pantry": [
       "chicken",
       "lime",
-      "milk",
       "coconut milk",
       "soy sauce",
       "curry paste",
@@ -1541,8 +1529,6 @@
     ],
     "pantry": [
       "chicken",
-      "rice",
-      "onion",
       "scallions",
       "garlic",
       "ginger",
@@ -1710,7 +1696,6 @@
     ],
     "pantry": [
       "yogurt",
-      "butter",
       "milk",
       "oats",
       "maple syrup",
@@ -1817,7 +1802,6 @@
     "pantry": [
       "crab",
       "eggs",
-      "onion",
       "scallions",
       "cream cheese",
       "parmesan"
@@ -1890,7 +1874,6 @@
     "pantry": [
       "chicken",
       "eggs",
-      "onion",
       "garlic"
     ],
     "steps": [
@@ -2011,7 +1994,6 @@
     ],
     "pantry": [
       "yogurt",
-      "butter",
       "peanut butter",
       "chocolate"
     ],
@@ -2138,7 +2120,6 @@
     "pantry": [
       "eggs",
       "yogurt",
-      "milk",
       "flour",
       "oats",
       "chocolate",
@@ -2201,7 +2182,6 @@
     "pantry": [
       "eggs",
       "butter",
-      "milk",
       "flour",
       "chocolate",
       "protein powder"
@@ -2331,7 +2311,6 @@
       "eggs",
       "yogurt",
       "cream cheese",
-      "butter",
       "peanut butter"
     ],
     "steps": [
@@ -2469,7 +2448,6 @@
       "eggs",
       "yogurt",
       "butter",
-      "milk",
       "flour",
       "oats",
       "chocolate",
