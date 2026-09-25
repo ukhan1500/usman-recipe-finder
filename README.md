@@ -12,7 +12,7 @@ A static, mobile-friendly website for finding recipes from the ingredients you h
 
 The catalog contains **70 completed recipe cards**: 55 from the original working collection and 15 adapted from the user-supplied *Usman's Recipe Book (jalalsamfit)* PDF. The 47 remaining saved links are not presented as complete recipes until their ingredients and methods are verified.
 
-The added cards attribute Jalal and identify the page in the supplied PDF. The creator profile link is not a claim that the exact recipe appears on that profile page. The PDF repeats the same 545-calorie, 57g protein, 46g carbs, 13g fat banner on most recipe pages (the last page prints 480/50/39/13); the site preserves those printed values with a prominent verification note. The PDF does not state serving counts for most recipes. One milk range on its Alfredo Chicken Fried Rice page is unreadable at the upper end, and one chicken quantity is printed as “12/3 lb”; those ambiguities are called out in the ingredient lists.
+The 15 added cards attribute Jalal and identify the page in the supplied PDF. The PDF repeats the same 545-calorie, 57g protein, 46g carbs, 13g fat banner on most recipe pages. Each card now uses Jalal's recipe-specific, per-serving figures found in matching posts or cookbooks, with a link to a matching recipe source and the serving count. These are creator-reported values, which vary with ingredient brands and portions. One milk range on the Alfredo Chicken Fried Rice page is unreadable at the upper end, and one chicken quantity is printed as “12/3 lb”; those ambiguities are called out in the ingredient lists.
 
 ## Run locally
 

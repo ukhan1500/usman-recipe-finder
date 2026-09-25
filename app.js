@@ -119,7 +119,7 @@ function openRecipe(recipe) {
 }
 async function init() {
   try {
-    const response = await fetch('recipes.json?v=3'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
+    const response = await fetch('recipes.json?v=4'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
     state.recipes = await response.json();
     state.vocabulary = new Set(state.recipes.flatMap((r) => r.pantry));
     $('#recipe-count').textContent = state.recipes.length;
