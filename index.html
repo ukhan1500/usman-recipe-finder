@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6eee6">
+  <meta name="description" content="Find a recipe from your pantry, meal type, and cuisine.">
+  <title>What can I make? · Usman's Recipe Collection</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Usman's Recipe Collection, top of page"><span class="brand-mark">U<span>●</span></span><span>USMAN'S<br><strong>RECIPE COLLECTION</strong></span></a>
+      <a class="top-link" href="#finder">Find a recipe <span aria-hidden="true">↗</span></a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-line"></span> YOUR KITCHEN, SORTED</p>
+          <h1 id="hero-title">What can I <em>make?</em></h1>
+          <p class="hero-description">Tell me what’s in your kitchen. Find a dinner, dessert, or snack that fits your ingredients and the flavors you’re craving.</p>
+          <a class="hero-button" href="#finder">Explore recipes <span aria-hidden="true">↗</span></a>
+          <p class="hero-footnote"><span id="recipe-count">55</span> curated recipes · source links included</p>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="plate"><div class="plate-inner"><span class="food food-one"></span><span class="food food-two"></span><span class="food food-three"></span><span class="food food-four"></span><span class="herb herb-one"></span><span class="herb herb-two"></span><span class="herb herb-three"></span></div></div>
+          <div class="art-label">THE GOOD<br>STUFF IS<br>ALREADY HERE <span>↘</span></div>
+          <span class="sparkle sparkle-one">✳</span><span class="sparkle sparkle-two">✳</span>
+        </div>
+      </section>
+
+      <section class="finder" id="finder" aria-labelledby="finder-title">
+        <div class="section-intro"><div><p class="eyebrow">01 / THE FINDER</p><h2 id="finder-title">Start with what you have.</h2></div><p>Add ingredients one at a time or paste a comma-separated list. Your pantry stays in this browser.</p></div>
+        <div class="controls">
+          <div class="pantry-panel">
+            <label for="ingredient-input">YOUR INGREDIENTS</label>
+            <div class="add-row"><input id="ingredient-input" list="ingredient-options" autocomplete="off" placeholder="Try chicken, rice, garlic…"><datalist id="ingredient-options"></datalist><button type="button" id="add-ingredient">Add <span aria-hidden="true">+</span></button></div>
+            <div id="pantry-chips" class="pantry-chips" aria-live="polite"></div>
+            <p class="control-help">Search matches ingredient names, not quantities. Staples and seasonings may still be needed.</p>
+          </div>
+          <div class="select-panel"><label for="meal-filter">TYPE OF MEAL</label><select id="meal-filter"><option value="">All meals</option></select></div>
+          <div class="select-panel"><label for="culture-filter">CUISINE / CULTURE</label><select id="culture-filter"><option value="">All cuisines</option></select></div>
+        </div>
+        <div class="results-toolbar"><div><p class="eyebrow">02 / YOUR MATCHES</p><h2><span id="results-count">55</span> recipes for you</h2></div><div class="toolbar-right"><label class="search-label" for="recipe-search"><span aria-hidden="true">⌕</span><input id="recipe-search" type="search" placeholder="Search recipes" aria-label="Search recipe titles"></label><label class="toggle"><input id="only-matches" type="checkbox"><span>Show pantry matches only</span></label></div></div>
+        <div id="recipe-grid" class="recipe-grid" aria-live="polite"></div>
+        <div id="empty-state" class="empty-state" hidden><span>✳</span><h3>No recipes found</h3><p>Try another ingredient, meal, or cuisine.</p><button type="button" id="reset-filters">Clear filters</button></div>
+      </section>
+    </main>
+    <footer><strong>Good food starts with what you have.</strong><span>Recipe names, ingredients, and methods are credited through each card’s source link. Nutrition estimates are labeled.</span><a href="#top">Back to top ↑</a></footer>
+  </div>
+
+  <dialog id="recipe-dialog" aria-labelledby="dialog-title"><button class="dialog-close" id="close-dialog" aria-label="Close recipe">×</button><div id="dialog-content"></div></dialog>
+</body>
+</html>
