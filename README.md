@@ -7,10 +7,12 @@ A static, mobile-friendly website for finding recipes from the ingredients you h
 - Enter or paste ingredients and save a pantry on your device.
 - Filter the catalog by meal type and cuisine, or search by recipe name and ingredient.
 - Sort the recipes with the most pantry matches first and show missing key ingredients.
-- Open ingredients, steps, nutrition, and the creator's original source from each card.
+- Open ingredients, steps, nutrition, and source or creator attribution from each card.
 - Nutrition labels preserve creator-provided values when available and mark estimates.
 
-The catalog currently contains **55 completed recipe cards** from the source-verified working PDF. The 47 remaining saved links are not presented as complete recipes until their ingredients and methods are verified.
+The catalog contains **70 completed recipe cards**: 55 from the original working collection and 15 adapted from the user-supplied *Usman's Recipe Book (jalalsamfit)* PDF. The 47 remaining saved links are not presented as complete recipes until their ingredients and methods are verified.
+
+The added cards attribute Jalal and identify the page in the supplied PDF. The creator profile link is not a claim that the exact recipe appears on that profile page. The PDF repeats the same 545-calorie, 57g protein, 46g carbs, 13g fat banner on most recipe pages (the last page prints 480/50/39/13); the site preserves those printed values with a prominent verification note. The PDF does not state serving counts for most recipes. One milk range on its Alfredo Chicken Fried Rice page is unreadable at the upper end, and one chicken quantity is printed as “12/3 lb”; those ambiguities are called out in the ingredient lists.
 
 ## Run locally
 
@@ -22,7 +24,7 @@ From this directory, run `python3 -m http.server 8000` and open `http://localhos
 2. In **Settings → Pages**, choose **Deploy from a branch**, select the default branch, and select **/(root)**.
 3. GitHub will provide a link of the form `https://USERNAME.github.io/REPOSITORY/`.
 
-The site uses relative paths, so it also works under a project subpath. If you update the recipe data, edit `recipes.json` and commit the file.
+The site uses relative paths, so it also works under a project subpath. If you update the recipe data, edit `recipes.json` and commit the file. The site runs without a build step or the source PDFs.
 
 ## Matching notes
 

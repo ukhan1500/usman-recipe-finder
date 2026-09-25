@@ -113,12 +113,13 @@ function openRecipe(recipe) {
   const ingredients = el('ul'); recipe.ingredients.forEach((part) => ingredients.append(el('li', '', part))); body.append(ingredients);
   body.append(el('h3', '', 'STEPS'));
   const steps = el('ol'); recipe.steps.forEach((step) => steps.append(el('li', '', step))); body.append(steps);
-  const link = el('a', 'source-button', 'Open original source ↗'); link.href = recipe.source; link.target = '_blank'; link.rel = 'noopener noreferrer'; body.append(link);
+  if (recipe.credit) body.append(el('p', 'nutrition-note', recipe.credit));
+  const link = el('a', 'source-button', recipe.sourceLabel || 'Open original source ↗'); link.href = recipe.source; link.target = '_blank'; link.rel = 'noopener noreferrer'; body.append(link);
   host.append(header, body); $('#recipe-dialog').showModal();
 }
 async function init() {
   try {
-    const response = await fetch('recipes.json?v=2'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
+    const response = await fetch('recipes.json?v=3'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
     state.recipes = await response.json();
     state.vocabulary = new Set(state.recipes.flatMap((r) => r.pantry));
     $('#recipe-count').textContent = state.recipes.length;
