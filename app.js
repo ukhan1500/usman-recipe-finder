@@ -114,12 +114,26 @@ function openRecipe(recipe) {
   body.append(el('h3', '', 'STEPS'));
   const steps = el('ol'); recipe.steps.forEach((step) => steps.append(el('li', '', step))); body.append(steps);
   if (recipe.credit) body.append(el('p', 'nutrition-note', recipe.credit));
-  const link = el('a', 'source-button', recipe.sourceLabel || 'Open original source ↗'); link.href = recipe.source; link.target = '_blank'; link.rel = 'noopener noreferrer'; body.append(link);
+  const video = el('section', 'original-video');
+  video.append(el('h3', '', 'WATCH THE ORIGINAL VIDEO'));
+  const platform = recipe.originalVideoPlatform || 'Instagram';
+  video.append(el('p', '', `Opens this specific ${platform} post.`));
+  if (platform === 'Instagram') {
+    const shortcode = recipe.originalVideo.match(/\/reel\/([^/]+)\//)?.[1];
+    if (shortcode) video.append(el('p', 'post-id', `Post ID: ${shortcode}`));
+  }
+  const watch = el('a', 'source-button', `Watch on ${platform} ↗`);
+  watch.href = recipe.originalVideo || recipe.source; watch.target = '_blank'; watch.rel = 'noopener noreferrer'; video.append(watch);
+  body.append(video);
+  if (recipe.source && recipe.source !== recipe.originalVideo) {
+    const link = el('a', 'secondary-source', recipe.sourceLabel || 'Open written recipe source ↗');
+    link.href = recipe.source; link.target = '_blank'; link.rel = 'noopener noreferrer'; body.append(link);
+  }
   host.append(header, body); $('#recipe-dialog').showModal();
 }
 async function init() {
   try {
-    const response = await fetch('recipes.json?v=4'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
+    const response = await fetch('recipes.json?v=5'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
     state.recipes = await response.json();
     state.vocabulary = new Set(state.recipes.flatMap((r) => r.pantry));
     $('#recipe-count').textContent = state.recipes.length;
