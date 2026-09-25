@@ -5,7 +5,7 @@ const el = (tag, cls, value) => {
   if (value !== undefined) node.textContent = value;
   return node;
 };
-const state = { recipes: [], pantry: [] };
+const state = { recipes: [], pantry: [], vocabulary: new Set() };
 const aliases = {
   'chicken breast': 'chicken', 'chicken thigh': 'chicken', 'ground chicken': 'chicken',
   'ground beef': 'beef', 'chuck roast': 'beef', 'salmon fillet': 'salmon',
@@ -50,8 +50,8 @@ function renderChips() {
   });
 }
 function hasIngredient(recipe, pantryTerm) {
-  return recipe.pantry.includes(pantryTerm) || recipe.ingredients.some((line) =>
-    line.toLowerCase().includes(pantryTerm));
+  if (state.vocabulary.has(pantryTerm)) return recipe.pantry.includes(pantryTerm);
+  return recipe.ingredients.some((line) => line.toLowerCase().includes(pantryTerm));
 }
 function score(recipe) {
   const matched = state.pantry.filter((term) => hasIngredient(recipe, term));
@@ -120,6 +120,7 @@ async function init() {
   try {
     const response = await fetch('recipes.json'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
     state.recipes = await response.json();
+    state.vocabulary = new Set(state.recipes.flatMap((r) => r.pantry));
     $('#recipe-count').textContent = state.recipes.length;
     for (const [selector, values] of [
       ['#meal-filter', [...new Set(state.recipes.map((r) => r.meal))]],
