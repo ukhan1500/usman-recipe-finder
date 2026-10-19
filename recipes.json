@@ -3629,5 +3629,1014 @@
     "credit": "Adapted from the user-supplied “Usman’s Recipe Book (jalalsamfit)” PDF, page 16. Nutrition is Jalal’s reported per-serving figure for the matching recipe.",
     "originalVideo": "https://www.instagram.com/reel/CxQx32ho_vc/",
     "originalVideoPlatform": "Instagram"
+  },
+  {
+    "id": "dash-mini-01",
+    "title": "Thai Coconut Rice",
+    "meal": "Side",
+    "culture": "Thai-inspired",
+    "ingredients": [
+      "¼ teaspoon coconut oil",
+      "¾ cup jasmine rice",
+      "½ cup coconut cream",
+      "1 cup water",
+      "¼ teaspoon sea salt",
+      "Green onions, sliced thin",
+      "Roasted cashews, chopped",
+      "Sesame seeds"
+    ],
+    "pantry": [
+      "rice",
+      "coconut cream",
+      "coconut oil",
+      "scallions",
+      "cashews"
+    ],
+    "steps": [
+      "Grease the insert lightly. Add dry rice, coconut cream, water, and salt; stir.",
+      "Cover and run a cooking cycle, about 20–25 minutes, until rice is tender. Fluff and add any optional toppings."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 480,
+      "protein": 5,
+      "carbs": 62,
+      "fat": 25,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Dash calls the 1/2 cup ingredient coconut cream but says coconut milk in its directions; estimate uses unsweetened coconut cream.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/thai-coconut-rice-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "20-25 minutes, until rice is tender",
+      "warm": "Rest covered on Warm for 5-10 minutes, then fluff.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-02",
+    "title": "German Potato Salad",
+    "meal": "Side",
+    "culture": "German-inspired",
+    "ingredients": [
+      "1 cup Yukon potatoes, chopped",
+      "1 cup low-sodium chicken or vegetable stock",
+      "4 slices bacon or turkey bacon, chopped",
+      "¼ cup apple cider vinegar",
+      "¼ cup drained potato liquid (from potatoes)",
+      "2 teaspoons maple syrup",
+      "½ cup yellow onion, diced",
+      "¼ teaspoon ground black pepper",
+      "1 tablespoon parsley, chopped",
+      "1 wedge lemon (optional)"
+    ],
+    "pantry": [
+      "potatoes",
+      "broth",
+      "bacon",
+      "vinegar",
+      "onion",
+      "maple syrup"
+    ],
+    "steps": [
+      "Cook the diced potatoes in stock in the mini cooker until tender, about 25–30 minutes. Drain, reserving 1/4 cup of liquid.",
+      "In a separate skillet, brown the bacon, then soften the onion. Simmer with vinegar, reserved liquid, maple syrup, and pepper until slightly reduced.",
+      "Toss in potatoes, bacon, parsley, and optional lemon. Chill before serving."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 190,
+      "protein": 7,
+      "carbs": 22,
+      "fat": 9,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate uses regular bacon and excludes optional lemon.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/german-potato-salad-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "25-30 minutes for the potatoes, until fork-tender",
+      "warm": "Turn off after the potatoes are done; finish the dressing in a skillet and chill the salad promptly.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-03",
+    "title": "Giant Fluffy Pancake",
+    "meal": "Breakfast",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "1 cup pancake mix",
+      "1 cup water, milk, or non-dairy milk",
+      "1 tablespoon canola or coconut oil",
+      "Maple syrup (optional)",
+      "Mixed berries (optional)"
+    ],
+    "pantry": [
+      "pancake mix",
+      "milk",
+      "oil",
+      "berries",
+      "maple syrup"
+    ],
+    "steps": [
+      "Whisk pancake mix, water or milk, and oil; rest 5–10 minutes.",
+      "Pour half the batter into the insert. Cook until set, about 25–35 minutes, repeating a cycle if needed. Turn onto a plate.",
+      "Repeat for the second pancake. Add optional syrup or berries when serving."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 pancakes",
+      "calories": 280,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 9,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate uses water and excludes optional toppings; mix brand changes nutrition.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/giant-fluffy-pancake-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "25-35 minutes per pancake; half the batter at a time",
+      "warm": "Warm is not a substitute for cooking. Remove only when the center is fully set; cook another cycle if your manual permits.",
+      "egg": "No separate egg is listed; prepare pancake mix as Dash specifies.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-04",
+    "title": "Rice Cooker Banana Bread",
+    "meal": "Dessert",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "2 medium bananas, very ripe, peeled",
+      "1 large egg",
+      "⅔ cup sugar",
+      "¼ cup ricotta cheese",
+      "1 tablespoon coconut oil",
+      "¼ cup walnuts or pecans, chopped (optional)",
+      "1 teaspoon vanilla extract",
+      "½ teaspoon kosher salt",
+      "1 teaspoon baking powder",
+      "2 teaspoons rum (optional)",
+      "1½ cups all-purpose flour",
+      "2 tablespoons maple syrup",
+      "1 medium banana, sliced"
+    ],
+    "pantry": [
+      "banana",
+      "eggs",
+      "sugar",
+      "ricotta",
+      "coconut oil",
+      "walnuts",
+      "flour",
+      "maple syrup"
+    ],
+    "steps": [
+      "Mash two ripe bananas and mix with egg, sugar, ricotta, oil, vanilla, salt, baking powder, flour, and optional nuts or rum.",
+      "Cook roughly 1 cup of batter at a time in the insert for 20–25 minutes. Turn the cake over carefully and cook another cycle until set; repeat with remaining batter.",
+      "Serve with the sliced banana and maple syrup."
+    ],
+    "nutrition": {
+      "scope": "1 of 4 small cakes",
+      "calories": 475,
+      "protein": 8,
+      "carbs": 80,
+      "fat": 14,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimated as four small cakes from the full batter, without optional nuts or rum; Dash labels its batch 1–2 servings despite repeated cakes.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/rice-cooker-banana-bread-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "20-25 minutes on each side, about 40-50 minutes per small cake",
+      "warm": "Warm is not a substitute for baking. Cook until the center is set and reaches 160°F.",
+      "egg": "Mix the raw egg into the batter before cooking; never add raw egg on Warm.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-05",
+    "title": "Herbed Polenta",
+    "meal": "Side",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "½ cup dry polenta",
+      "1 cup low-sodium chicken or vegetable stock",
+      "½ teaspoon kosher salt",
+      "¼ teaspoon garlic powder",
+      "¼ teaspoon black pepper",
+      "½ teaspoon dried rosemary",
+      "½ teaspoon dried thyme",
+      "½ teaspoon dried parsley"
+    ],
+    "pantry": [
+      "polenta",
+      "broth",
+      "garlic",
+      "rosemary",
+      "thyme",
+      "parsley"
+    ],
+    "steps": [
+      "Stir dry polenta, stock, salt, garlic powder, pepper, rosemary, thyme, and parsley in the insert.",
+      "Cover and cook until the liquid absorbs and polenta is tender, about 25–35 minutes; stir and serve."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 160,
+      "protein": 5,
+      "carbs": 34,
+      "fat": 1,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate uses vegetable stock.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/herbed-polenta-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "25-35 minutes, until polenta is tender and liquid is absorbed",
+      "warm": "Serve when done; Warm is only for brief holding.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-06",
+    "title": "Dutch Baby",
+    "meal": "Breakfast",
+    "culture": "German-inspired",
+    "ingredients": [
+      "¾ cup whole milk or non-dairy milk",
+      "½ cup all-purpose flour",
+      "3 large eggs",
+      "¼ teaspoon salt",
+      "¼ teaspoon vanilla extract",
+      "¼ cup cane sugar",
+      "Powdered sugar (optional)",
+      "2 lemon wedges (optional)"
+    ],
+    "pantry": [
+      "milk",
+      "flour",
+      "eggs",
+      "sugar",
+      "vanilla",
+      "lemon"
+    ],
+    "steps": [
+      "Blend milk, flour, eggs, salt, vanilla, and sugar until smooth.",
+      "Cook 1/2 cup batter at a time in the insert until set, approximately two cooking cycles or 45–50 minutes. Repeat with remaining batter.",
+      "Cut into portions and add optional lemon or powdered sugar."
+    ],
+    "nutrition": {
+      "scope": "1 of 4 portions",
+      "calories": 190,
+      "protein": 8,
+      "carbs": 27,
+      "fat": 6,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate uses whole milk and excludes optional toppings; the batch is cooked in several rounds.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/dutch-baby-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "45-50 minutes per 1/2-cup batch, approximately two cycles",
+      "warm": "Cook until the center is set and reaches 160°F; do not use Warm to finish raw batter.",
+      "egg": "Blend the eggs into the batter before cooking.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-07",
+    "title": "Thai Red Curry Chicken",
+    "meal": "Dinner & lunch",
+    "culture": "Thai-inspired",
+    "ingredients": [
+      "1½ cups coconut milk",
+      "1 teaspoon ginger, minced",
+      "1 clove garlic, minced",
+      "½ cup snow peas, rinsed",
+      "½ yellow onion, sliced",
+      "½ cup bamboo shoots",
+      "¼ cup red bell pepper, chopped",
+      "Soy sauce, to taste",
+      "½ chicken breast, cut into ½” pieces",
+      "Thai red curry paste, to taste (quantity omitted on Dash page)"
+    ],
+    "pantry": [
+      "chicken",
+      "coconut milk",
+      "ginger",
+      "garlic",
+      "snow peas",
+      "onion",
+      "bamboo shoots",
+      "bell pepper",
+      "soy sauce",
+      "curry paste"
+    ],
+    "steps": [
+      "Season the bite-size chicken with soy sauce. Mix coconut milk with Thai red curry paste to taste; Dash omits the paste quantity from its ingredient list.",
+      "Add the sauce, chicken, ginger, garlic, and vegetables to the insert without exceeding its fill line. Cook 20 minutes, stir, and cook about 10 minutes more.",
+      "Check the thickest chicken piece reaches 165°F. Serve with rice cooked separately if desired."
+    ],
+    "nutrition": {
+      "scope": "1 portion, excluding rice",
+      "calories": 900,
+      "protein": 25,
+      "carbs": 20,
+      "fat": 80,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Dash omits the curry paste quantity; estimate excludes paste and serving rice. Canned full-fat coconut milk varies greatly by brand.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/thai-red-curry-chicken-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "About 30-35 minutes: stir after 20 minutes and continue until chicken reaches 165°F",
+      "warm": "Use Warm only after the chicken is fully cooked; rice is cooked separately.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-08",
+    "title": "Easy Turkey Chili",
+    "meal": "Dinner & lunch",
+    "culture": "Southwest-inspired",
+    "ingredients": [
+      "8 ounces ground turkey",
+      "2 tablespoons olive oil",
+      "8 ounces canned black beans, rinsed and drained",
+      "8 ounces canned kidney beans, rinsed and drained",
+      "1 tablespoon chili powder",
+      "1 tablespoon tomato paste",
+      "½ cup canned diced tomatoes",
+      "3 tablespoons chili seasoning",
+      "Salt and pepper, to taste",
+      "Sour cream, (optional)",
+      "½ lime, juiced",
+      "⅛ teaspoon sea salt"
+    ],
+    "pantry": [
+      "ground turkey",
+      "olive oil",
+      "black beans",
+      "kidney beans",
+      "tomato paste",
+      "tomato",
+      "chili powder"
+    ],
+    "steps": [
+      "Cook ground turkey with olive oil in the insert, stirring and breaking it up; verify it reaches 165°F. Drain excess fat if needed.",
+      "Add drained beans, tomatoes, tomato paste, chili powder, and chili seasoning; simmer about one cycle, stirring to prevent sticking.",
+      "Season to taste. Add optional sour cream, lime, cheese, or red onion after cooking."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 550,
+      "protein": 35,
+      "carbs": 60,
+      "fat": 20,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate excludes optional toppings and assumes the full 2 tbsp oil is retained. Dash mentions cheese and red onion only in its directions.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/turkey-chili-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "Cook turkey to 165°F, then simmer the chili about 25 minutes; roughly 35-45 minutes total",
+      "warm": "Use Warm only after the turkey and chili are fully cooked.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-09",
+    "title": "Rice Pudding",
+    "meal": "Dessert",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "½ cup of white rice",
+      "2 cups of skim milk, divided",
+      "¼ cup coconut or cane sugar",
+      "½ teaspoon pure vanilla extract",
+      "1 teaspoon cinnamon",
+      "¼ teaspoon nutmeg",
+      "Extra skim milk, up to the listed 2 cups total, as needed"
+    ],
+    "pantry": [
+      "rice",
+      "milk",
+      "sugar",
+      "vanilla",
+      "cinnamon",
+      "nutmeg"
+    ],
+    "steps": [
+      "Combine dry rice, 1 1/3 cups skim milk, sugar, and vanilla in the insert. Cook about 30 minutes, stirring occasionally.",
+      "Watch for milk bubbling at the lid; carefully uncover and stir if it rises. Once rice is tender, add cinnamon, nutmeg, and the remaining milk.",
+      "Cool and chill before serving."
+    ],
+    "nutrition": {
+      "scope": "1 of 3 portions",
+      "calories": 235,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 2,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate uses skim milk. Dash lists 2 cups milk but its directions allocate 1 1/3 cup plus 1/2 cup; add the remaining milk to preference.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/rice-pudding-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "About 30-35 minutes, stirring periodically, until rice is tender",
+      "warm": "Turn off and cool promptly for chilling; do not use Warm to cool the pudding.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-10",
+    "title": "Rice Cooker Macaroni & Cheese",
+    "meal": "Side",
+    "culture": "American-inspired",
+    "ingredients": [
+      "1 cup uncooked macaroni pasta",
+      "¾ cup chicken stock",
+      "¼ teaspoon salt",
+      "¼ cup milk",
+      "½ cup cheddar cheese, shredded",
+      "¼ cup part skim mozzarella cheese",
+      "½ tablespoon butter",
+      "Salt and pepper, to taste"
+    ],
+    "pantry": [
+      "pasta",
+      "broth",
+      "milk",
+      "cheddar",
+      "mozzarella",
+      "butter"
+    ],
+    "steps": [
+      "Put uncooked macaroni, stock, milk, and salt in the insert; cook covered until pasta is tender and most liquid is absorbed.",
+      "Stir in shredded cheddar, mozzarella, and butter. Cover briefly to melt, stir again, and serve."
+    ],
+    "nutrition": {
+      "scope": "1 of 3 portions",
+      "calories": 265,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 9,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate uses whole milk; cheese brands vary.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/macaroni-cheese-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "About 20-25 minutes, until pasta is tender and most liquid is absorbed",
+      "warm": "Stir in cheese and butter after pasta cooks; cover on Warm 1-2 minutes to melt, then serve.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-11",
+    "title": "Chicken Noodle Soup",
+    "meal": "Dinner & lunch",
+    "culture": "American-inspired",
+    "ingredients": [
+      "1 teaspoon olive oil",
+      "¼ onion, finely chopped",
+      "¼ carrot, sliced",
+      "1 teaspoon garlic, minced",
+      "½ boneless chicken breast, diced in ½” cubes",
+      "1½ cups chicken broth",
+      "2 teaspoon parsley, finely chopped",
+      "¼ cup spiral pasta",
+      "Salt and pepper, to taste"
+    ],
+    "pantry": [
+      "chicken",
+      "pasta",
+      "carrot",
+      "onion",
+      "garlic",
+      "broth",
+      "parsley"
+    ],
+    "steps": [
+      "Cook onion, carrot, and garlic with olive oil in the insert for a few minutes.",
+      "Add diced raw chicken, broth, pasta, parsley, salt, and pepper. Cover and cook, stirring after about 5 minutes.",
+      "Continue until pasta is tender and chicken reaches 165°F, about 20–25 minutes more."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 165,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 4,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate excludes optional crackers; broth and chicken size vary.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/chicken-noodle-soup-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "About 30-40 minutes total, until pasta is tender and chicken reaches 165°F",
+      "warm": "Use Warm only once the chicken is fully cooked.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-12",
+    "title": "Quinoa Taco Bowl",
+    "meal": "Dinner & lunch",
+    "culture": "Mexican-inspired",
+    "ingredients": [
+      "¾ cup quinoa",
+      "½ cup canned black beans, rinsed and drained",
+      "1½ cups chicken or vegetable broth",
+      "¼ cup pico de gallo or salsa",
+      "½ sliced avocado",
+      "¼ cup shredded cheese",
+      "¼ cup corn",
+      "½ tablespoon taco seasoning (cayenne, cumin, coriander, paprika)",
+      "sour cream, optional",
+      "½ lime, juiced",
+      "⅛ teaspoon sea salt",
+      "Salt and fresh ground black pepper to taste"
+    ],
+    "pantry": [
+      "quinoa",
+      "black beans",
+      "broth",
+      "salsa",
+      "avocado",
+      "cheese",
+      "corn",
+      "lime"
+    ],
+    "steps": [
+      "Add dry quinoa, broth, and drained beans to the insert. Cover and cook until quinoa is tender, approximately 15–20 minutes.",
+      "Stir in taco seasoning, lime juice, and salt. Transfer to bowls and top with cheese, avocado, corn, and pico de gallo.",
+      "Add optional sour cream or extra seasoning when serving."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 460,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 17,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate excludes optional sour cream.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/quinoa-taco-bowl-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "15-20 minutes, until quinoa is tender",
+      "warm": "Rest covered on Warm about 5 minutes; then add toppings outside the cooker.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-13",
+    "title": "Pineapple Fried Rice",
+    "meal": "Dinner & lunch",
+    "culture": "Asian-inspired",
+    "ingredients": [
+      "¼ cup pineapple, diced small",
+      "½ cup frozen peas and carrots",
+      "¼ cup green onion, sliced thin",
+      "2 tablespoons olive oil, divided",
+      "2 teaspoons sesame oil, divided",
+      "½ teaspoon ginger powder",
+      "¼ cup green onion, sliced",
+      "¾ cup short grain brown rice",
+      "1½ cups chicken broth",
+      "1 egg, scrambled"
+    ],
+    "pantry": [
+      "rice",
+      "pineapple",
+      "peas",
+      "carrot",
+      "scallions",
+      "olive oil",
+      "sesame oil",
+      "eggs",
+      "broth"
+    ],
+    "steps": [
+      "Cook dry brown rice with broth in the mini cooker until tender, about 20–25 minutes or longer according to your rice.",
+      "In a skillet, scramble the egg and set aside. Sauté frozen peas and carrots with green onion in half the olive and sesame oils; add pineapple and egg.",
+      "Heat remaining oils in the skillet, briefly fry the cooked rice, then combine with vegetables and pineapple."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 490,
+      "protein": 10,
+      "carbs": 62,
+      "fat": 23,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate includes both oils and egg. Requires a separate skillet; brown rice may need longer than Dash’s stated time.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/pineapple-fried-rice-mini-rice-cooker",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "Dash says 20-25 minutes for brown rice; allow longer if necessary and follow the rice package/manual",
+      "warm": "Rest covered on Warm 5-10 minutes only after rice is tender; finish fried rice in a skillet.",
+      "egg": "Scramble the egg separately in a skillet to 160°F while rice cooks. Add the cooked egg during the final skillet toss.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "dash-mini-14",
+    "title": "Cilantro Lime Rice",
+    "meal": "Side",
+    "culture": "Mexican-inspired",
+    "ingredients": [
+      "1 teaspoon olive oil",
+      "1⁄4 cup chopped onion",
+      "1 clove garlic, finely chopped",
+      "3⁄4 cup long-grain jasmine rice",
+      "1 1⁄4 cup water",
+      "1⁄8 teaspoon sea salt",
+      "1 tablespoon freshly squeezed lime juice",
+      "2-3 tablespoons cilantro, roughly chopped",
+      "Zest and juice of one lime"
+    ],
+    "pantry": [
+      "rice",
+      "onion",
+      "garlic",
+      "olive oil",
+      "lime",
+      "cilantro"
+    ],
+    "steps": [
+      "Soften onion in olive oil in the insert for 3–5 minutes. Add garlic, dry rice, water, and salt.",
+      "Cover and cook until rice is tender and liquid absorbs, about 20–25 minutes. Fluff and mix in cilantro, lime zest, and lime juice."
+    ],
+    "nutrition": {
+      "scope": "1 of 2 portions",
+      "calories": 280,
+      "protein": 5,
+      "carbs": 58,
+      "fat": 3,
+      "note": "Estimated by Codex from listed ingredients; check package labels. Estimate uses one lime; Dash lists juice twice, so add to taste.",
+      "estimated": true
+    },
+    "source": "https://bydash.com/blogs/recipes/cilantro-lime-rice",
+    "sourceLabel": "Read Dash’s original recipe ↗",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker",
+    "cooker": {
+      "setting": "Cook for active cooking; Warm only after food is done.",
+      "time": "3-5 minutes to soften onion, then about 20-25 minutes for rice",
+      "warm": "Rest on Warm 5-10 minutes once rice is tender, then add cilantro and lime.",
+      "egg": "No egg is required.",
+      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+    }
+  },
+  {
+    "id": "usman-dash-bowl-01",
+    "title": "Spicy Buffalo & Mozzarella Rice Bowl",
+    "meal": "Dinner & lunch",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "Chicken: 1 lb (454 g) raw boneless, skinless chicken breast, cut into 3/4-inch pieces",
+      "Rice: 3/4 U.S. cup (about 140 g) dry white rice, rinsed",
+      "Water: 15 tbsp (just under 1 cup) for 3/4 U.S. cup rice; adjust to the rice package and your model’s manual",
+      "Use U.S. measuring cups for these amounts, not the smaller Dash scoop",
+      "1 large egg",
+      "8-9 oz (250 g, about 2 cups) frozen broccoli",
+      "2 oz (56 g, about 1/2 cup) shredded part-skim mozzarella",
+      "1 tsp butter",
+      "2 tbsp light mayonnaise",
+      "2 tbsp Frank’s RedHot, plus more to taste",
+      "1 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "1/8 tsp crushed red pepper; black pepper and salt to taste"
+    ],
+    "pantry": [
+      "chicken",
+      "rice",
+      "eggs",
+      "broccoli",
+      "butter",
+      "garlic powder",
+      "onion powder",
+      "mozzarella"
+    ],
+    "steps": [
+      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
+      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
+      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "Combine the rested rice, cooked broccoli, cooked chicken, and scrambled egg in a large bowl. Stir in Frank’s and remaining dry seasonings. Add mozzarella while the food is hot, cover 1-2 minutes to melt, then drizzle with light mayo."
+    ],
+    "nutrition": {
+      "scope": "1 full large meal (or 2 half portions)",
+      "calories": 1500,
+      "protein": 140,
+      "carbs": 140,
+      "fat": 42,
+      "estimated": true,
+      "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
+    },
+    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker + skillet",
+    "cooker": {
+      "setting": "COOK for rice; WARM only after the cooking cycle ends.",
+      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
+      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
+      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
+      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+    }
+  },
+  {
+    "id": "usman-dash-bowl-02",
+    "title": "Garlic & Herb Chicken Fried-Style Rice",
+    "meal": "Dinner & lunch",
+    "culture": "Italian-inspired",
+    "ingredients": [
+      "Chicken: 1 lb (454 g) raw boneless, skinless chicken breast, cut into 3/4-inch pieces",
+      "Rice: 3/4 U.S. cup (about 140 g) dry white rice, rinsed",
+      "Water: 15 tbsp (just under 1 cup) for 3/4 U.S. cup rice; adjust to the rice package and your model’s manual",
+      "Use U.S. measuring cups for these amounts, not the smaller Dash scoop",
+      "2 large eggs",
+      "8-9 oz (250 g, about 2 cups) frozen mixed vegetables",
+      "1 tbsp butter",
+      "1 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "1 tsp Italian seasoning",
+      "1/4 tsp salt-free seasoning",
+      "1 tsp parsley flakes; salt and black pepper to taste"
+    ],
+    "pantry": [
+      "chicken",
+      "rice",
+      "eggs",
+      "mixed vegetables",
+      "butter",
+      "garlic powder",
+      "onion powder"
+    ],
+    "steps": [
+      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
+      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
+      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "Add the cooked mixed vegetables and rested rice to the skillet with the cooked chicken and egg. Sprinkle in the remaining seasonings. Toss over medium heat 2-3 minutes, until piping hot; finish with parsley. Work in batches if the pan is crowded."
+    ],
+    "nutrition": {
+      "scope": "1 full large meal (or 2 half portions)",
+      "calories": 1475,
+      "protein": 130,
+      "carbs": 150,
+      "fat": 39,
+      "estimated": true,
+      "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
+    },
+    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker + skillet",
+    "cooker": {
+      "setting": "COOK for rice; WARM only after the cooking cycle ends.",
+      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
+      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
+      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
+      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+    }
+  },
+  {
+    "id": "usman-dash-bowl-03",
+    "title": "Zesty Cumin & Chili Chicken Bowl",
+    "meal": "Dinner & lunch",
+    "culture": "Tex-Mex-inspired",
+    "ingredients": [
+      "Chicken: 1 lb (454 g) raw boneless, skinless chicken breast, cut into 3/4-inch pieces",
+      "Rice: 3/4 U.S. cup (about 140 g) dry white rice, rinsed",
+      "Water: 15 tbsp (just under 1 cup) for 3/4 U.S. cup rice; adjust to the rice package and your model’s manual",
+      "Use U.S. measuring cups for these amounts, not the smaller Dash scoop",
+      "1 large egg",
+      "8-9 oz (250 g, about 2 cups) frozen mixed vegetables",
+      "1 1/2 oz (42 g, about 3/8 cup) shredded part-skim mozzarella",
+      "1 tsp butter",
+      "1 tbsp light mayonnaise",
+      "1 tbsp Frank’s RedHot",
+      "1 tsp ground cumin",
+      "1 tsp chili powder",
+      "1/2 tsp onion powder",
+      "1/2 tsp garlic powder",
+      "1/8 tsp crushed red pepper",
+      "1/2 tsp dried cilantro leaves; salt and black pepper to taste"
+    ],
+    "pantry": [
+      "chicken",
+      "rice",
+      "eggs",
+      "mixed vegetables",
+      "butter",
+      "garlic powder",
+      "onion powder",
+      "mozzarella"
+    ],
+    "steps": [
+      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
+      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
+      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "Combine the rested rice, cooked mixed vegetables, chicken, and scrambled egg in a large bowl. Stir in remaining dry seasonings. Top with mozzarella and cover briefly to melt. Mix the light mayo with Frank’s and drizzle over the bowl; finish with cilantro."
+    ],
+    "nutrition": {
+      "scope": "1 full large meal (or 2 half portions)",
+      "calories": 1500,
+      "protein": 135,
+      "carbs": 150,
+      "fat": 40,
+      "estimated": true,
+      "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
+    },
+    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker + skillet",
+    "cooker": {
+      "setting": "COOK for rice; WARM only after the cooking cycle ends.",
+      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
+      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
+      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
+      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+    }
+  },
+  {
+    "id": "usman-dash-bowl-04",
+    "title": "Creamy Garlic-Broccoli Mayo Rice",
+    "meal": "Dinner & lunch",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "Chicken: 1 lb (454 g) raw boneless, skinless chicken breast, cut into 3/4-inch pieces",
+      "Rice: 3/4 U.S. cup (about 140 g) dry white rice, rinsed",
+      "Water: 15 tbsp (just under 1 cup) for 3/4 U.S. cup rice; adjust to the rice package and your model’s manual",
+      "Use U.S. measuring cups for these amounts, not the smaller Dash scoop",
+      "1 large egg",
+      "8-9 oz (250 g, about 2 cups) frozen broccoli",
+      "1 oz (28 g, about 1/4 cup) shredded part-skim mozzarella",
+      "1 tbsp butter",
+      "3 tbsp light mayonnaise",
+      "1 tsp garlic powder",
+      "1/2 tsp onion powder",
+      "1/4 tsp salt-free seasoning; salt and black pepper to taste"
+    ],
+    "pantry": [
+      "chicken",
+      "rice",
+      "eggs",
+      "broccoli",
+      "butter",
+      "garlic powder",
+      "onion powder",
+      "mozzarella"
+    ],
+    "steps": [
+      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
+      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
+      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "Combine the rested rice, cooked broccoli, chicken, and scrambled egg in a large bowl. Stir in the remaining dry seasonings and mozzarella. Let stand covered 1-2 minutes, then stir in light mayo. Add 1-2 tbsp hot water if you want a looser texture."
+    ],
+    "nutrition": {
+      "scope": "1 full large meal (or 2 half portions)",
+      "calories": 1525,
+      "protein": 135,
+      "carbs": 140,
+      "fat": 47,
+      "estimated": true,
+      "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
+    },
+    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker + skillet",
+    "cooker": {
+      "setting": "COOK for rice; WARM only after the cooking cycle ends.",
+      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
+      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
+      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
+      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+    }
+  },
+  {
+    "id": "usman-dash-bowl-05",
+    "title": "Sweet & Spicy Glazed Chicken Plate",
+    "meal": "Dinner & lunch",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "Chicken: 1 lb (454 g) raw boneless, skinless chicken breast, cut into 3/4-inch pieces",
+      "Rice: 3/4 U.S. cup (about 140 g) dry white rice, rinsed",
+      "Water: 15 tbsp (just under 1 cup) for 3/4 U.S. cup rice; adjust to the rice package and your model’s manual",
+      "Use U.S. measuring cups for these amounts, not the smaller Dash scoop",
+      "2 large eggs",
+      "4-5 oz (125 g, about 1 cup) frozen mixed vegetables",
+      "4-5 oz (125 g, about 1 cup) frozen broccoli",
+      "1 tsp butter",
+      "2 tbsp honey",
+      "1 tbsp Frank’s RedHot",
+      "1 tsp garlic powder",
+      "1/4 tsp chili powder",
+      "1/4 tsp salt-free seasoning",
+      "1 tsp parsley flakes; salt and black pepper to taste"
+    ],
+    "pantry": [
+      "chicken",
+      "rice",
+      "eggs",
+      "mixed vegetables",
+      "butter",
+      "garlic powder",
+      "onion powder"
+    ],
+    "steps": [
+      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
+      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
+      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "Mix honey and Frank’s. Return the cooked chicken to the skillet, add the glaze, and toss over low heat for 1-2 minutes. Mix the rested rice, cooked vegetables, and scrambled eggs in a large serving bowl; season with salt-free seasoning and parsley. Spoon glazed chicken over the rice."
+    ],
+    "nutrition": {
+      "scope": "1 full large meal (or 2 half portions)",
+      "calories": 1500,
+      "protein": 130,
+      "carbs": 165,
+      "fat": 35,
+      "estimated": true,
+      "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
+    },
+    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "collection": "dash-mini-rice-cooker",
+    "appliance": "Dash Mini Rice Cooker + skillet",
+    "cooker": {
+      "setting": "COOK for rice; WARM only after the cooking cycle ends.",
+      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
+      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
+      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
+      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+    }
   }
 ]

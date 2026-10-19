@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#f6eee6">
   <meta name="description" content="Find a recipe from your pantry, meal type, and cuisine.">
   <title>What can I make? · Usman's Recipe Collection</title>
-  <link rel="stylesheet" href="styles.css">
-  <script src="app.js?v=5" defer></script>
+  <link rel="stylesheet" href="styles.css?v=7">
+  <script src="app.js?v=7" defer></script>
 </head>
 <body>
   <div class="site-shell">
@@ -23,7 +23,7 @@
           <h1 id="hero-title">What can I <em>make?</em></h1>
           <p class="hero-description">Tell me what’s in your kitchen. Find a dinner, dessert, or snack that fits your ingredients and the flavors you’re craving.</p>
           <a class="hero-button" href="#finder">Explore recipes <span aria-hidden="true">↗</span></a>
-          <p class="hero-footnote"><span id="recipe-count">70</span> curated recipes · source links included</p>
+          <p class="hero-footnote"><span id="recipe-count">89</span> curated recipes · source links included</p>
         </div>
         <div class="hero-art" aria-hidden="true">
           <div class="plate"><div class="plate-inner"><span class="food food-one"></span><span class="food food-two"></span><span class="food food-three"></span><span class="food food-four"></span><span class="herb herb-one"></span><span class="herb herb-two"></span><span class="herb herb-three"></span></div></div>
@@ -44,7 +44,8 @@
           <div class="select-panel"><label for="meal-filter">TYPE OF MEAL</label><select id="meal-filter"><option value="">All meals</option></select></div>
           <div class="select-panel"><label for="culture-filter">CUISINE / CULTURE</label><select id="culture-filter"><option value="">All cuisines</option></select></div>
         </div>
-        <div class="results-toolbar"><div><p class="eyebrow">02 / YOUR MATCHES</p><h2><span id="results-count">55</span> recipes for you</h2></div><div class="toolbar-right"><label class="search-label" for="recipe-search"><span aria-hidden="true">⌕</span><input id="recipe-search" type="search" placeholder="Search recipes" aria-label="Search recipe titles"></label><label class="toggle"><input id="only-matches" type="checkbox"><span>Show pantry matches only</span></label></div></div>
+        <div class="results-toolbar"><div><p class="eyebrow">02 / YOUR MATCHES</p><h2><span id="results-count">89</span> recipes for you</h2></div><div class="toolbar-right"><label class="search-label" for="recipe-search"><span aria-hidden="true">⌕</span><input id="recipe-search" type="search" placeholder="Search recipes" aria-label="Search recipe titles"></label><label class="toggle"><input id="only-matches" type="checkbox"><span>Show pantry matches only</span></label></div></div>
+        <div class="collection-filters" aria-label="Recipe collections"><button type="button" id="dash-only" class="collection-button" aria-pressed="false">🍚 Dash mini rice cooker only <span aria-hidden="true">↗</span></button><p>Show the recipes from Dash’s mini cooker collection. Some use a separate skillet or ingredients beyond rice.</p></div>
         <div id="recipe-grid" class="recipe-grid" aria-live="polite"></div>
         <div id="empty-state" class="empty-state" hidden><span>✳</span><h3>No recipes found</h3><p>Try another ingredient, meal, or cuisine.</p><button type="button" id="reset-filters">Clear filters</button></div>
       </section>

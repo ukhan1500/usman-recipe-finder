@@ -7,3 +7,6 @@ dialog{width:min(720px,calc(100vw - 30px));max-height:calc(100vh - 30px);border:
 
 .original-video{margin-top:28px;padding:18px 20px;border:1px solid var(--line);border-radius:8px;background:#f5f9f4}.original-video h3{margin:0 0 6px}.original-video p{margin:0;font-size:13px;line-height:1.4}.original-video .source-button{margin-top:12px}.secondary-source{display:inline-block;margin-top:14px;font-size:12px;font-weight:700;color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 .original-video .post-id{margin-top:4px;font-size:11px;opacity:.65}
+.collection-filters{display:flex;align-items:center;gap:15px;margin:-8px 0 24px;flex-wrap:wrap}.collection-button{border:1px solid var(--ink);background:#fff;color:var(--ink);border-radius:24px;padding:11px 17px;font-size:12px;font-weight:700}.collection-button:hover,.collection-button[aria-pressed="true"]{background:var(--ink);color:#fff}.collection-button:focus-visible{outline:3px solid var(--coral);outline-offset:3px}.collection-filters p{font-size:12px;color:var(--muted);margin:0;line-height:1.4}
+
+.cooker-guide{padding:16px 18px;margin-bottom:24px;border:1px solid var(--line);border-radius:9px;background:#f5f9f4}.cooker-guide p{font-size:12px;line-height:1.55;margin:8px 0}.cooker-guide strong{font-size:10px;letter-spacing:.04em}

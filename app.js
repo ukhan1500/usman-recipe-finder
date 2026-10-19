@@ -61,7 +61,7 @@ function score(recipe) {
 function makeCard(recipe, number) {
   const match = score(recipe);
   const card = el('article', 'recipe-card');
-  const top = el('div', 'card-top'); top.append(el('span', 'card-num', String(number).padStart(2, '0')), el('span', 'card-meal', recipe.meal));
+  const top = el('div', 'card-top'); top.append(el('span', 'card-num', String(number).padStart(2, '0')), el('span', 'card-meal', recipe.collection === 'dash-mini-rice-cooker' ? 'DASH MINI · ' + recipe.meal : recipe.meal));
   card.append(top, el('h3', '', recipe.title), el('p', 'card-culture', recipe.culture));
   const summary = state.pantry.length
     ? `${match.matched.length} of ${recipe.pantry.length} key ingredients matched`
@@ -82,7 +82,9 @@ function renderRecipes() {
   const meal = $('#meal-filter').value, culture = $('#culture-filter').value;
   const query = $('#recipe-search').value.trim().toLowerCase();
   const onlyMatches = $('#only-matches').checked;
+  const dashOnly = $('#dash-only').getAttribute('aria-pressed') === 'true';
   const matches = state.recipes.filter((recipe) =>
+    (!dashOnly || recipe.collection === 'dash-mini-rice-cooker') &&
     (!meal || recipe.meal === meal) && (!culture || recipe.culture === culture) &&
     (!query || `${recipe.title} ${recipe.ingredients.join(' ')}`.toLowerCase().includes(query)) &&
     (!onlyMatches || (state.pantry.length && score(recipe).matched.length > 0)));
@@ -109,22 +111,32 @@ function openRecipe(recipe) {
   header.append(nutrition);
   header.append(el('p', 'nutrition-note', `${recipe.nutrition.scope} · ${recipe.nutrition.note}${recipe.nutrition.estimated ? ' · approximate' : ''}`));
   const body = el('div', 'dialog-body');
+  if (recipe.cooker) {
+    const guide = el('section', 'cooker-guide');
+    guide.append(el('h3', '', 'DASH COOK / WARM GUIDE'));
+    for (const [label, key] of [['SETTING', 'setting'], ['TIME', 'time'], ['AFTER COOKING', 'warm'], ['WHEN TO ADD EGG', 'egg'], ['BATCH SIZE', 'capacity']]) {
+      const item = el('p'); item.append(el('strong', '', `${label}: `), document.createTextNode(recipe.cooker[key])); guide.append(item);
+    }
+    body.append(guide);
+  }
   body.append(el('h3', '', 'INGREDIENTS'));
   const ingredients = el('ul'); recipe.ingredients.forEach((part) => ingredients.append(el('li', '', part))); body.append(ingredients);
   body.append(el('h3', '', 'STEPS'));
   const steps = el('ol'); recipe.steps.forEach((step) => steps.append(el('li', '', step))); body.append(steps);
   if (recipe.credit) body.append(el('p', 'nutrition-note', recipe.credit));
-  const video = el('section', 'original-video');
-  video.append(el('h3', '', 'WATCH THE ORIGINAL VIDEO'));
-  const platform = recipe.originalVideoPlatform || 'Instagram';
-  video.append(el('p', '', `Opens this specific ${platform} post.`));
-  if (platform === 'Instagram') {
-    const shortcode = recipe.originalVideo.match(/\/reel\/([^/]+)\//)?.[1];
-    if (shortcode) video.append(el('p', 'post-id', `Post ID: ${shortcode}`));
+  if (recipe.originalVideo) {
+    const video = el('section', 'original-video');
+    video.append(el('h3', '', 'WATCH THE ORIGINAL VIDEO'));
+    const platform = recipe.originalVideoPlatform || 'Instagram';
+    video.append(el('p', '', `Opens this specific ${platform} post.`));
+    if (platform === 'Instagram') {
+      const shortcode = recipe.originalVideo.match(/\/reel\/([^/]+)\//)?.[1];
+      if (shortcode) video.append(el('p', 'post-id', `Post ID: ${shortcode}`));
+    }
+    const watch = el('a', 'source-button', `Watch on ${platform} ↗`);
+    watch.href = recipe.originalVideo; watch.target = '_blank'; watch.rel = 'noopener noreferrer'; video.append(watch);
+    body.append(video);
   }
-  const watch = el('a', 'source-button', `Watch on ${platform} ↗`);
-  watch.href = recipe.originalVideo || recipe.source; watch.target = '_blank'; watch.rel = 'noopener noreferrer'; video.append(watch);
-  body.append(video);
   if (recipe.source && recipe.source !== recipe.originalVideo) {
     const link = el('a', 'secondary-source', recipe.sourceLabel || 'Open written recipe source ↗');
     link.href = recipe.source; link.target = '_blank'; link.rel = 'noopener noreferrer'; body.append(link);
@@ -133,7 +145,7 @@ function openRecipe(recipe) {
 }
 async function init() {
   try {
-    const response = await fetch('recipes.json?v=5'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
+    const response = await fetch('recipes.json?v=7'); if (!response.ok) throw new Error('Recipe catalog could not be loaded');
     state.recipes = await response.json();
     state.vocabulary = new Set(state.recipes.flatMap((r) => r.pantry));
     $('#recipe-count').textContent = state.recipes.length;
@@ -162,8 +174,14 @@ $('#ingredient-input').addEventListener('keydown', (event) => {
 });
 for (const selector of ['#meal-filter','#culture-filter','#only-matches']) $(selector).addEventListener('change', renderRecipes);
 $('#recipe-search').addEventListener('input', renderRecipes);
+$('#dash-only').addEventListener('click', () => {
+  const button = $('#dash-only');
+  button.setAttribute('aria-pressed', String(button.getAttribute('aria-pressed') !== 'true'));
+  renderRecipes();
+  $('#finder').scrollIntoView({behavior:'smooth',block:'start'});
+});
 $('#reset-filters').addEventListener('click', () => {
-  $('#meal-filter').value=''; $('#culture-filter').value=''; $('#recipe-search').value=''; $('#only-matches').checked=false;
+  $('#meal-filter').value=''; $('#culture-filter').value=''; $('#recipe-search').value=''; $('#only-matches').checked=false; $('#dash-only').setAttribute('aria-pressed','false');
   renderRecipes();
 });
 $('#close-dialog').addEventListener('click', () => $('#recipe-dialog').close());
