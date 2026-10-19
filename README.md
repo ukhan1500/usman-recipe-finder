@@ -45,3 +45,6 @@ The site uses relative paths, so it also works under a project subpath. If you u
 ## Matching notes
 
 Pantry matching is based on recognized ingredient names, not quantities or substitutions. The full ingredient list is always shown in the recipe detail. A high match score does not guarantee you have every required item or enough of it; check the full recipe before cooking. Culture labels follow the working collection and often say “inspired” to avoid presenting fusion recipes as traditional versions.
+
+Website link
+https://ukhan1500.github.io/usman-recipe-finder/#finder
