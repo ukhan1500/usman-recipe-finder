@@ -4264,7 +4264,7 @@
       "¼ cup green onion, sliced",
       "¾ cup short grain brown rice",
       "1½ cups chicken broth",
-      "1 egg, scrambled"
+      "1 large egg, beaten and divided equally between two rice batches"
     ],
     "pantry": [
       "rice",
@@ -4278,9 +4278,11 @@
       "broth"
     ],
     "steps": [
-      "Cook dry brown rice with broth in the mini cooker until tender, about 20–25 minutes or longer according to your rice.",
-      "In a skillet, scramble the egg and set aside. Sauté frozen peas and carrots with green onion in half the olive and sesame oils; add pineapple and egg.",
-      "Heat remaining oils in the skillet, briefly fry the cooked rice, then combine with vegetables and pineapple."
+      "Beat the egg and divide it equally between two small bowls. Cook the brown rice in two batches to leave room for egg: 3/8 U.S. cup dry rice plus 3/4 cup broth per batch. Cover and select COOK; Dash’s listed time is 20-25 minutes, but brown rice may need longer. Check for tender rice and follow your model’s manual and fill limit.",
+      "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
+      "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
+      "Repeat for the second rice batch. In a separate skillet, sauté the peas, carrots, and green onion in half of the olive and sesame oils; stir in pineapple.",
+      "Heat the remaining oils in the skillet, add the fully cooked egg-rice mixture, then toss with vegetables and pineapple for another 2-3 minutes until hot."
     ],
     "nutrition": {
       "scope": "1 of 2 portions",
@@ -4293,15 +4295,15 @@
     },
     "source": "https://bydash.com/blogs/recipes/pineapple-fried-rice-mini-rice-cooker",
     "sourceLabel": "Read Dash’s original recipe ↗",
-    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Follow your cooker’s maximum fill level and use a thermometer for poultry.",
+    "credit": "Adapted from Dash’s Mini Rice Cooker collection. Dash originally scrambles the egg separately; this card uses the user-requested in-cooker egg adaptation, which is not a Dash-tested method. Verify 160°F throughout the egg-rice mixture.",
     "collection": "dash-mini-rice-cooker",
     "appliance": "Dash Mini Rice Cooker",
     "cooker": {
       "setting": "Cook for active cooking; Warm only after food is done.",
-      "time": "Dash says 20-25 minutes for brown rice; allow longer if necessary and follow the rice package/manual",
-      "warm": "Rest covered on Warm 5-10 minutes only after rice is tender; finish fried rice in a skillet.",
-      "egg": "Scramble the egg separately in a skillet to 160°F while rice cooks. Add the cooked egg during the final skillet toss.",
-      "capacity": "Keep below your model’s maximum fill line. Use smaller batches when necessary; never hold the switch down. If food is unfinished and Cook will not restart normally, finish it in a saucepan or skillet."
+      "time": "Two brown-rice batches on COOK, at least the source’s 20-25 minutes each or longer until tender; after adding egg, cover on WARM 3-5 minutes and verify 160°F.",
+      "warm": "As soon as tender rice switches to WARM, immediately stir in half the beaten egg for that batch, cover 3-5 minutes, and check temperature before the skillet finish.",
+      "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
+      "capacity": "Per batch: 3/8 U.S. cup dry brown rice, 3/4 cup broth, and half the beaten egg. Stay below the model’s fill limit, including room for expansion. Cook vegetables and finish fried rice in a separate skillet."
     }
   },
   {
@@ -4385,10 +4387,12 @@
       "mozzarella"
     ],
     "steps": [
-      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
       "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
+      "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
+      "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
       "Combine the rested rice, cooked broccoli, cooked chicken, and scrambled egg in a large bowl. Stir in Frank’s and remaining dry seasonings. Add mozzarella while the food is hot, cover 1-2 minutes to melt, then drizzle with light mayo."
     ],
     "nutrition": {
@@ -4400,15 +4404,15 @@
       "estimated": true,
       "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
     },
-    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "credit": "User-provided meal idea with measurements and estimated nutrition developed by Codex. Uses the user-requested in-cooker egg adaptation, which is not a Dash-tested method. The egg-rice mixture must reach 160°F; chicken must reach 165°F. Assemble the full large meal outside the mini cooker.",
     "collection": "dash-mini-rice-cooker",
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
-      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
-      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
-      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
+      "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
+      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
     }
   },
   {
@@ -4440,10 +4444,12 @@
       "onion powder"
     ],
     "steps": [
-      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
       "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
+      "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
+      "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
       "Add the cooked mixed vegetables and rested rice to the skillet with the cooked chicken and egg. Sprinkle in the remaining seasonings. Toss over medium heat 2-3 minutes, until piping hot; finish with parsley. Work in batches if the pan is crowded."
     ],
     "nutrition": {
@@ -4455,15 +4461,15 @@
       "estimated": true,
       "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
     },
-    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "credit": "User-provided meal idea with measurements and estimated nutrition developed by Codex. Uses the user-requested in-cooker egg adaptation, which is not a Dash-tested method. The egg-rice mixture must reach 160°F; chicken must reach 165°F. Assemble the full large meal outside the mini cooker.",
     "collection": "dash-mini-rice-cooker",
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
-      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
-      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
-      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
+      "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
+      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
     }
   },
   {
@@ -4500,10 +4506,12 @@
       "mozzarella"
     ],
     "steps": [
-      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
       "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
+      "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
+      "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
       "Combine the rested rice, cooked mixed vegetables, chicken, and scrambled egg in a large bowl. Stir in remaining dry seasonings. Top with mozzarella and cover briefly to melt. Mix the light mayo with Frank’s and drizzle over the bowl; finish with cilantro."
     ],
     "nutrition": {
@@ -4515,15 +4523,15 @@
       "estimated": true,
       "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
     },
-    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "credit": "User-provided meal idea with measurements and estimated nutrition developed by Codex. Uses the user-requested in-cooker egg adaptation, which is not a Dash-tested method. The egg-rice mixture must reach 160°F; chicken must reach 165°F. Assemble the full large meal outside the mini cooker.",
     "collection": "dash-mini-rice-cooker",
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
-      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
-      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
-      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
+      "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
+      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
     }
   },
   {
@@ -4556,10 +4564,12 @@
       "mozzarella"
     ],
     "steps": [
-      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
       "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
+      "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
+      "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
       "Combine the rested rice, cooked broccoli, chicken, and scrambled egg in a large bowl. Stir in the remaining dry seasonings and mozzarella. Let stand covered 1-2 minutes, then stir in light mayo. Add 1-2 tbsp hot water if you want a looser texture."
     ],
     "nutrition": {
@@ -4571,15 +4581,15 @@
       "estimated": true,
       "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
     },
-    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "credit": "User-provided meal idea with measurements and estimated nutrition developed by Codex. Uses the user-requested in-cooker egg adaptation, which is not a Dash-tested method. The egg-rice mixture must reach 160°F; chicken must reach 165°F. Assemble the full large meal outside the mini cooker.",
     "collection": "dash-mini-rice-cooker",
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
-      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
-      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
-      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
+      "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
+      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
     }
   },
   {
@@ -4613,10 +4623,12 @@
       "onion powder"
     ],
     "steps": [
-      "Put 3/4 U.S. cup rinsed dry white rice and 15 tbsp water into the insert. Close the lid, plug in, and press the switch down to COOK. Allow about 20-25 minutes, until rice is tender and the cooker switches to WARM. Rest covered on WARM for 5-10 minutes. Do not exceed the maximum fill line; rice is cooked alone in this method.",
       "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "Beat the egg(s). In the same nonstick skillet, scramble over medium-low heat for about 2-4 minutes, stirring until fully set and at least 160°F. Use a splash of water if needed; no extra cooking fat is included in the estimate. Do not stir raw beaten egg into rice on WARM.",
+      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
+      "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
+      "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
       "Mix honey and Frank’s. Return the cooked chicken to the skillet, add the glaze, and toss over low heat for 1-2 minutes. Mix the rested rice, cooked vegetables, and scrambled eggs in a large serving bowl; season with salt-free seasoning and parsley. Spoon glazed chicken over the rice."
     ],
     "nutrition": {
@@ -4628,15 +4640,15 @@
       "estimated": true,
       "note": "Estimated by Codex using raw skinless chicken breast (~120 cal/100 g), dry rice, light mayo where listed, part-skim mozzarella, and all measured butter. About 1,500 calories for the entire recipe; package labels and cooked yield vary. Half a recipe is about 750 calories."
     },
-    "credit": "User-provided meal idea; quantities, cooker workflow, and nutrition developed by Codex. This is a home adaptation, not an official Dash recipe. Assemble in a large bowl; the whole 1,500-calorie meal will not fit in the mini cooker.",
+    "credit": "User-provided meal idea with measurements and estimated nutrition developed by Codex. Uses the user-requested in-cooker egg adaptation, which is not a Dash-tested method. The egg-rice mixture must reach 160°F; chicken must reach 165°F. Assemble the full large meal outside the mini cooker.",
     "collection": "dash-mini-rice-cooker",
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "About 20-25 minutes on Cook, plus 5-10 minutes covered on Warm; chicken/vegetables/egg cook separately.",
-      "warm": "Once rice is tender and has rested, transfer it to a large bowl. Add the already-cooked egg, chicken, vegetables, and toppings.",
-      "egg": "Scramble the egg(s) separately to 160°F while the rice cooks. Fold in after rice rests on Warm; never add raw egg at the Warm click.",
-      "capacity": "Cook only the measured rice and water in the mini cooker. Assemble the full meal outside it. Follow your model’s fill line; never hold the switch down."
+      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
+      "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
+      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
     }
   }
 ]

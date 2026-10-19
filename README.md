@@ -50,7 +50,9 @@ Pantry matching is based on recognized ingredient names, not quantities or subst
 
 ## Dash controls and custom bowls
 
-Every Dash collection card includes a Cook/Warm guide, approximate active cooking time, egg instructions, and capacity notes. The five custom bowls are about 1,500 calories for the entire large recipe, assembled outside the mini cooker; their chicken, vegetables, and eggs cook separately. Raw eggs are never stirred into rice on Warm. Eggs are scrambled to 160°F and poultry is cooked to 165°F. Cups in the custom recipes are U.S. measuring cups; the cooker scoop differs. User-provided Google search URLs are not treated as original creator sources.
+Every Dash collection card includes a Cook/Warm guide, approximate active cooking time, egg instructions, and capacity notes. The five custom bowls are about 1,500 calories for the entire large recipe, assembled outside the mini cooker; their chicken and vegetables cook separately. The five bowls and Pineapple Fried Rice use the user-requested in-cooker egg adaptation: immediately stir beaten egg into steaming rice at the Warm click, cover for 3–5 minutes, then verify 160°F throughout. Time on Warm alone never guarantees doneness; finish with active cooking if needed, without forcing the switch. Smaller rice batches leave room for egg. This adaptation is not a Dash-tested method. Poultry is cooked to 165°F. Cups in the custom recipes are U.S. measuring cups; the cooker scoop differs. User-provided Google search URLs are not treated as original creator sources.
 
 Website link
 https://ukhan1500.github.io/usman-recipe-finder/#finder
+
+The latest in-cooker egg instructions are maintained by `scripts/update_rice_cooker_egg.py`; rerun it after regenerating custom bowls so the older separate-egg instructions are not restored. PDF changes require an explicit user request.
