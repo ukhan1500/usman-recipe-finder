@@ -4278,10 +4278,12 @@
       "broth"
     ],
     "steps": [
-      "Beat the egg and divide it equally between two small bowls. Cook the brown rice in two batches to leave room for egg: 3/8 U.S. cup dry rice plus 3/4 cup broth per batch. Cover and select COOK; Dash’s listed time is 20-25 minutes, but brown rice may need longer. Check for tender rice and follow your model’s manual and fill limit.",
+      "STEP 1 — THE RICE: Beat the egg and divide it equally between two small bowls. Cook brown rice in TWO batches: each uses 3/8 U.S. cup dry rice and 3/4 cup broth. Follow your rice package, model manual, and maximum fill level.",
+      "STEP 2 — THE VEGGIES: Add 1/4 cup frozen peas and carrots on top of the rice and broth per batch, without thawing. Avoid overfilling; leave room for expansion and egg. Cover and select COOK. Dash lists 20-25 minutes, but brown rice and frozen vegetables may need longer. Check rice is tender and vegetables are hot and cooked according to their package.",
+      "MOISTURE CONTROL: Frozen vegetables release water. Use the recipe’s measured liquid for this small rice batch, not a generic “1” fill line. If previous batches with these vegetables were mushy, try about 1 tsp less liquid per batch next time; this is a starting adjustment, not a tested Dash ratio. Follow your rice package and model manual.",
       "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
       "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
-      "Repeat for the second rice batch. In a separate skillet, sauté the peas, carrots, and green onion in half of the olive and sesame oils; stir in pineapple.",
+      "Repeat for the second rice batch. In a separate skillet, sauté the green onion in half the olive and sesame oils; stir in pineapple. The peas and carrots are already in the cooked rice.",
       "Heat the remaining oils in the skillet, add the fully cooked egg-rice mixture, then toss with vegetables and pineapple for another 2-3 minutes until hot."
     ],
     "nutrition": {
@@ -4303,7 +4305,7 @@
       "time": "Two brown-rice batches on COOK, at least the source’s 20-25 minutes each or longer until tender; after adding egg, cover on WARM 3-5 minutes and verify 160°F.",
       "warm": "As soon as tender rice switches to WARM, immediately stir in half the beaten egg for that batch, cover 3-5 minutes, and check temperature before the skillet finish.",
       "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
-      "capacity": "Per batch: 3/8 U.S. cup dry brown rice, 3/4 cup broth, and half the beaten egg. Stay below the model’s fill limit, including room for expansion. Cook vegetables and finish fried rice in a separate skillet."
+      "capacity": "Per batch: 3/8 U.S. cup dry brown rice, 3/4 cup broth, 1/4 cup frozen peas and carrots, and half the beaten egg. Respect the model’s fill limit with room for expansion and egg; cook vegetables separately if needed for space. Finish fried rice in a separate skillet."
     }
   },
   {
@@ -4387,9 +4389,11 @@
       "mozzarella"
     ],
     "steps": [
-      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "PREP: Leave the vegetables frozen; do not thaw. Reserve up to 1/2 cup total for the two rice batches. Cook the remaining vegetables separately according to their package and drain, then combine at assembly. Cut large frozen broccoli florets into small pieces, about 1/2 inch, using a stable cutting board; use pre-cut small florets if too hard to cut safely. Small pieces fit under the lid and cook more evenly.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "STEP 1 — THE RICE: Beat the egg(s) and divide into two equal portions. Cook rice in TWO batches: each uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice and add the measured water.",
+      "STEP 2 — THE VEGGIES: Put up to 1/4 cup frozen vegetables total on top of the rice and water in each batch; do not thaw or pack them down. Keep below your model’s maximum fill level with room for rice expansion and the egg. If space is tight, cook more vegetables separately. Close the lid and select COOK, roughly 15-25 minutes per batch until rice is tender and vegetables are hot and cooked according to their package. Frozen vegetables may lengthen cooking; do not rely only on the switch changing to WARM.",
+      "MOISTURE CONTROL: Frozen vegetables release water. Use the recipe’s measured liquid for this small rice batch, not a generic “1” fill line. If previous batches with these vegetables were mushy, try about 1 tsp less liquid per batch next time; this is a starting adjustment, not a tested Dash ratio. Follow your rice package and model manual.",
       "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
       "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
       "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
@@ -4409,10 +4413,10 @@
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "time": "Roughly 15-25 minutes on COOK per small rice/vegetable batch; frozen vegetables may need longer. Check tender rice and fully cooked vegetables. After adding egg, cover on WARM 3-5 minutes and verify 160°F throughout.",
       "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
       "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
-      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
+      "capacity": "TWO batches: each has 3/8 U.S. cup dry rice, 7 1/2 tbsp water, up to 1/4 cup frozen vegetables total, and half the recipe’s egg(s). Respect the model’s maximum fill level and leave room for expansion and egg. Cook remaining vegetables and all chicken separately; assemble outside the cooker."
     }
   },
   {
@@ -4444,9 +4448,11 @@
       "onion powder"
     ],
     "steps": [
-      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "PREP: Leave the vegetables frozen; do not thaw. Reserve up to 1/2 cup total for the two rice batches. Cook the remaining vegetables separately according to their package and drain, then combine at assembly.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "STEP 1 — THE RICE: Beat the egg(s) and divide into two equal portions. Cook rice in TWO batches: each uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice and add the measured water.",
+      "STEP 2 — THE VEGGIES: Put up to 1/4 cup frozen vegetables total on top of the rice and water in each batch; do not thaw or pack them down. Keep below your model’s maximum fill level with room for rice expansion and the egg. If space is tight, cook more vegetables separately. Close the lid and select COOK, roughly 15-25 minutes per batch until rice is tender and vegetables are hot and cooked according to their package. Frozen vegetables may lengthen cooking; do not rely only on the switch changing to WARM.",
+      "MOISTURE CONTROL: Frozen vegetables release water. Use the recipe’s measured liquid for this small rice batch, not a generic “1” fill line. If previous batches with these vegetables were mushy, try about 1 tsp less liquid per batch next time; this is a starting adjustment, not a tested Dash ratio. Follow your rice package and model manual.",
       "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
       "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
       "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
@@ -4466,10 +4472,10 @@
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "time": "Roughly 15-25 minutes on COOK per small rice/vegetable batch; frozen vegetables may need longer. Check tender rice and fully cooked vegetables. After adding egg, cover on WARM 3-5 minutes and verify 160°F throughout.",
       "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
       "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
-      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
+      "capacity": "TWO batches: each has 3/8 U.S. cup dry rice, 7 1/2 tbsp water, up to 1/4 cup frozen vegetables total, and half the recipe’s egg(s). Respect the model’s maximum fill level and leave room for expansion and egg. Cook remaining vegetables and all chicken separately; assemble outside the cooker."
     }
   },
   {
@@ -4506,9 +4512,11 @@
       "mozzarella"
     ],
     "steps": [
-      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "PREP: Leave the vegetables frozen; do not thaw. Reserve up to 1/2 cup total for the two rice batches. Cook the remaining vegetables separately according to their package and drain, then combine at assembly.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "STEP 1 — THE RICE: Beat the egg(s) and divide into two equal portions. Cook rice in TWO batches: each uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice and add the measured water.",
+      "STEP 2 — THE VEGGIES: Put up to 1/4 cup frozen vegetables total on top of the rice and water in each batch; do not thaw or pack them down. Keep below your model’s maximum fill level with room for rice expansion and the egg. If space is tight, cook more vegetables separately. Close the lid and select COOK, roughly 15-25 minutes per batch until rice is tender and vegetables are hot and cooked according to their package. Frozen vegetables may lengthen cooking; do not rely only on the switch changing to WARM.",
+      "MOISTURE CONTROL: Frozen vegetables release water. Use the recipe’s measured liquid for this small rice batch, not a generic “1” fill line. If previous batches with these vegetables were mushy, try about 1 tsp less liquid per batch next time; this is a starting adjustment, not a tested Dash ratio. Follow your rice package and model manual.",
       "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
       "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
       "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
@@ -4528,10 +4536,10 @@
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "time": "Roughly 15-25 minutes on COOK per small rice/vegetable batch; frozen vegetables may need longer. Check tender rice and fully cooked vegetables. After adding egg, cover on WARM 3-5 minutes and verify 160°F throughout.",
       "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
       "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
-      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
+      "capacity": "TWO batches: each has 3/8 U.S. cup dry rice, 7 1/2 tbsp water, up to 1/4 cup frozen vegetables total, and half the recipe’s egg(s). Respect the model’s maximum fill level and leave room for expansion and egg. Cook remaining vegetables and all chicken separately; assemble outside the cooker."
     }
   },
   {
@@ -4564,9 +4572,11 @@
       "mozzarella"
     ],
     "steps": [
-      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "PREP: Leave the vegetables frozen; do not thaw. Reserve up to 1/2 cup total for the two rice batches. Cook the remaining vegetables separately according to their package and drain, then combine at assembly. Cut large frozen broccoli florets into small pieces, about 1/2 inch, using a stable cutting board; use pre-cut small florets if too hard to cut safely. Small pieces fit under the lid and cook more evenly.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "STEP 1 — THE RICE: Beat the egg(s) and divide into two equal portions. Cook rice in TWO batches: each uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice and add the measured water.",
+      "STEP 2 — THE VEGGIES: Put up to 1/4 cup frozen vegetables total on top of the rice and water in each batch; do not thaw or pack them down. Keep below your model’s maximum fill level with room for rice expansion and the egg. If space is tight, cook more vegetables separately. Close the lid and select COOK, roughly 15-25 minutes per batch until rice is tender and vegetables are hot and cooked according to their package. Frozen vegetables may lengthen cooking; do not rely only on the switch changing to WARM.",
+      "MOISTURE CONTROL: Frozen vegetables release water. Use the recipe’s measured liquid for this small rice batch, not a generic “1” fill line. If previous batches with these vegetables were mushy, try about 1 tsp less liquid per batch next time; this is a starting adjustment, not a tested Dash ratio. Follow your rice package and model manual.",
       "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
       "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
       "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
@@ -4586,10 +4596,10 @@
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "time": "Roughly 15-25 minutes on COOK per small rice/vegetable batch; frozen vegetables may need longer. Check tender rice and fully cooked vegetables. After adding egg, cover on WARM 3-5 minutes and verify 160°F throughout.",
       "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
       "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
-      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
+      "capacity": "TWO batches: each has 3/8 U.S. cup dry rice, 7 1/2 tbsp water, up to 1/4 cup frozen vegetables total, and half the recipe’s egg(s). Respect the model’s maximum fill level and leave room for expansion and egg. Cook remaining vegetables and all chicken separately; assemble outside the cooker."
     }
   },
   {
@@ -4623,9 +4633,11 @@
       "onion powder"
     ],
     "steps": [
-      "Cook the frozen vegetables separately according to their package, about 4-7 minutes in the microwave or a covered saucepan. Drain excess water. This leaves space for rice to expand in the mini cooker.",
+      "PREP: Leave the vegetables frozen; do not thaw. Reserve up to 1/2 cup total for the two rice batches. Cook the remaining vegetables separately according to their package and drain, then combine at assembly. Cut large frozen broccoli florets into small pieces, about 1/2 inch, using a stable cutting board; use pre-cut small florets if too hard to cut safely. Small pieces fit under the lid and cook more evenly.",
       "Season the raw chicken with half the listed dry seasonings. Heat the measured butter in a large skillet over medium heat; cook chicken in batches for about 8-12 minutes, turning, until the thickest pieces reach 165°F. Transfer to a large bowl.",
-      "PREP & COOK: Beat the egg(s) and divide into two equal portions before starting. Cook the recipe’s rice in TWO batches to leave room for egg: each batch uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice, add the measured water, cover, and select COOK. Allow roughly 15-25 minutes per batch, checking that rice is tender when the switch changes to WARM. Use your model’s manual and maximum fill line; cook vegetables and chicken separately.",
+      "STEP 1 — THE RICE: Beat the egg(s) and divide into two equal portions. Cook rice in TWO batches: each uses 3/8 U.S. cup dry rice (1/4 cup + 2 tbsp; about 70 g) and 7 1/2 tbsp water. Rinse rice and add the measured water.",
+      "STEP 2 — THE VEGGIES: Put up to 1/4 cup frozen vegetables total on top of the rice and water in each batch; do not thaw or pack them down. Keep below your model’s maximum fill level with room for rice expansion and the egg. If space is tight, cook more vegetables separately. Close the lid and select COOK, roughly 15-25 minutes per batch until rice is tender and vegetables are hot and cooked according to their package. Frozen vegetables may lengthen cooking; do not rely only on the switch changing to WARM.",
+      "MOISTURE CONTROL: Frozen vegetables release water. Use the recipe’s measured liquid for this small rice batch, not a generic “1” fill line. If previous batches with these vegetables were mushy, try about 1 tsp less liquid per batch next time; this is a starting adjustment, not a tested Dash ratio. Follow your rice package and model manual.",
       "POUR & STIR: As soon as the cooked rice switches to WARM, open the lid carefully and immediately pour in that batch’s beaten egg. Stir vigorously with a non-metal utensil to distribute it throughout the steaming rice. Residual heat begins cooking the egg, but does not guarantee it cooks instantly.",
       "STEAM & CHECK: Close the lid and leave on WARM for 3-5 minutes. Stir and check the egg-rice mixture in several places with a food thermometer: it must reach at least 160°F and have no liquid egg. The clock alone does not establish doneness. If below 160°F, restart COOK only if the switch engages normally, stir and recheck until it reaches 160°F. Never hold the switch down. If COOK will not restart normally, finish the mixture in a skillet rather than serving undercooked egg.",
       "Repeat the rice, pour-and-stir, and temperature-check steps for the second batch. Keep the first batch hot for immediate assembly, or refrigerate promptly if saving it. Assemble the full meal in a large bowl outside the cooker.",
@@ -4645,10 +4657,10 @@
     "appliance": "Dash Mini Rice Cooker + skillet",
     "cooker": {
       "setting": "COOK for rice; WARM only after the cooking cycle ends.",
-      "time": "Two smaller rice batches: roughly 15-25 minutes on COOK per batch, then 3-5 minutes on WARM after egg is stirred in, plus any extra cooking needed to reach 160°F.",
+      "time": "Roughly 15-25 minutes on COOK per small rice/vegetable batch; frozen vegetables may need longer. Check tender rice and fully cooked vegetables. After adding egg, cover on WARM 3-5 minutes and verify 160°F throughout.",
       "warm": "At the WARM click, immediately stir in the beaten egg for that batch. Cover 3-5 minutes, then stir and check temperature; Warm time alone does not prove the egg is cooked.",
       "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
-      "capacity": "Use TWO batches: 3/8 U.S. cup dry rice + 7 1/2 tbsp water and half the recipe’s egg(s) per batch. Keep below your model’s maximum fill level, including room for expansion. Cook chicken/vegetables separately and assemble outside the cooker."
+      "capacity": "TWO batches: each has 3/8 U.S. cup dry rice, 7 1/2 tbsp water, up to 1/4 cup frozen vegetables total, and half the recipe’s egg(s). Respect the model’s maximum fill level and leave room for expansion and egg. Cook remaining vegetables and all chicken separately; assemble outside the cooker."
     }
   }
 ]
