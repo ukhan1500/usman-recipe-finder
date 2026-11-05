@@ -4813,5 +4813,45 @@
     "credit": "Original combination developed for Usman using the requested ingredients. Linked Quaker page supports the general refrigerated soaking method; these quantities and nutrition estimates are custom, not Quaker’s recipe.",
     "source": "https://www.quakeroats.com/cooking-and-recipes/overnight-oats-three-ways",
     "sourceLabel": "General overnight-oats soaking guide (Quaker) ↗"
+  },
+  {
+    "id": "usman-overnight-oats-5",
+    "title": "Chocolate Peanut Butter–Banana Cottage Cheese Overnight Oats",
+    "meal": "Breakfast",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "1/2 U.S. cup (40 g) dry old-fashioned rolled oats",
+      "1/2 U.S. cup (113 g) 2% cottage cheese",
+      "1/2 U.S. cup (120 ml) cold drinking water, plus 1-3 tbsp to thin if needed",
+      "1 tbsp (5 g) unsweetened cocoa powder, not sweetened hot cocoa mix",
+      "1 tbsp (16 g) peanut butter",
+      "1 medium ripe banana, divided"
+    ],
+    "pantry": [
+      "oats",
+      "cottage cheese",
+      "cocoa powder",
+      "peanut butter",
+      "banana"
+    ],
+    "steps": [
+      "Prep takes about 5 minutes. In a blender, combine the cottage cheese, 1/2 cup water, cocoa powder, peanut butter, and half the banana. Blend until smooth. Without a blender, mash the half banana, then whisk everything together; small cottage cheese curds will remain.",
+      "Transfer to a clean 3-cup container with a lid. Stir in the rolled oats until evenly moistened. Use old-fashioned rolled oats, not steel-cut oats. No rice cooker or heating is needed.",
+      "Cover and refrigerate immediately for at least 8 hours at 40°F or colder. Do not soak on the counter. Keep the remaining half banana covered in the refrigerator for the morning.",
+      "In the morning, stir well and add water 1 tbsp at a time if too thick. Slice the reserved half banana over the top. A ripe banana supplies sweetness; no milk or honey is required.",
+      "Makes one breakfast bowl. For best texture, prepare the night before and eat the next morning; keep chilled until serving."
+    ],
+    "nutrition": {
+      "scope": "1 breakfast bowl",
+      "calories": 450,
+      "protein": 24,
+      "carbs": 65,
+      "fat": 14,
+      "note": "Estimated by Codex using 40 g dry rolled oats (~150 cal), 113 g 2% cottage cheese (~90 cal, 13 g protein), 16 g peanut butter (~95 cal), 5 g unsweetened cocoa (~10 cal), and one medium banana (~105 cal). Water adds no calories. Cottage cheese brands, peanut butter, and banana size change the totals; use your package labels.",
+      "estimated": true
+    },
+    "credit": "Custom recipe developed for Usman using the requested cottage cheese, unsweetened cocoa, banana, peanut butter, oats, and water. The linked Quaker page supports the general refrigerated soaking method; these ingredients, quantities, and nutrition estimates are custom.",
+    "source": "https://www.quakeroats.com/cooking-and-recipes/overnight-oats-three-ways",
+    "sourceLabel": "General overnight-oats soaking guide (Quaker) ↗"
   }
 ]
