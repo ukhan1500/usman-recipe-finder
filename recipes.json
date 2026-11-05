@@ -4662,5 +4662,156 @@
       "egg": "Beat the egg(s) first and divide evenly between the two rice batches. Immediately at the WARM click, pour in one portion and stir vigorously. Cover 3-5 minutes on WARM, then verify at least 160°F throughout. If needed, finish on COOK only if it engages normally, or in a skillet; never force the switch.",
       "capacity": "TWO batches: each has 3/8 U.S. cup dry rice, 7 1/2 tbsp water, up to 1/4 cup frozen vegetables total, and half the recipe’s egg(s). Respect the model’s maximum fill level and leave room for expansion and egg. Cook remaining vegetables and all chicken separately; assemble outside the cooker."
     }
+  },
+  {
+    "id": "usman-overnight-oats-1",
+    "title": "Peanut Butter & Banana Overnight Oats",
+    "meal": "Breakfast",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "1/2 U.S. cup (40 g) dry old-fashioned rolled oats",
+      "1 U.S. cup (240 ml) 2% milk",
+      "2 tbsp (32 g) peanut butter",
+      "1 tsp (7 g) honey",
+      "1 medium banana, sliced just before serving",
+      "Optional: 1-3 tbsp water to thin"
+    ],
+    "pantry": [
+      "oats",
+      "milk",
+      "peanut butter",
+      "honey",
+      "banana"
+    ],
+    "steps": [
+      "Use a clean 3-cup container with a lid. Whisk the milk, peanut butter, and honey together; a few peanut butter streaks are fine. Use old-fashioned rolled oats, not steel-cut oats. Prep takes about 5 minutes; no rice cooker is needed.",
+      "Stir in the oats until all are moistened. Cover and refrigerate immediately for at least 8 hours at 40°F or colder; do not soak on the counter.",
+      "In the morning, stir well and top with the sliced banana. If too thick, stir in water 1 tbsp at a time. The optional thinning water adds no calories.",
+      "For best texture, prepare the night before and eat the next morning. Keep chilled until serving. Add banana just before eating."
+    ],
+    "nutrition": {
+      "scope": "1 breakfast bowl",
+      "calories": 590,
+      "protein": 21,
+      "carbs": 82,
+      "fat": 24,
+      "note": "Estimated by Codex from dry rolled oats (~150 cal per 1/2 cup), regular peanut butter (~190 cal per 2 tbsp), 2% dairy milk (~122 cal per cup) where listed, medium bananas (~105 cal each), and measured honey. Brands and banana size vary; use your package labels. Milk substitutions change calories and protein.",
+      "estimated": true
+    },
+    "credit": "Original combination developed for Usman using the requested ingredients. Linked Quaker page supports the general refrigerated soaking method; these quantities and nutrition estimates are custom, not Quaker’s recipe.",
+    "source": "https://www.quakeroats.com/cooking-and-recipes/overnight-oats-three-ways",
+    "sourceLabel": "General overnight-oats soaking guide (Quaker) ↗"
+  },
+  {
+    "id": "usman-overnight-oats-2",
+    "title": "Banana & Honey Overnight Oats",
+    "meal": "Breakfast",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "3/4 U.S. cup (60 g) dry old-fashioned rolled oats",
+      "1 U.S. cup (240 ml) 2% milk",
+      "1 tsp (7 g) honey",
+      "1 medium banana",
+      "Optional: 1-3 tbsp water to thin"
+    ],
+    "pantry": [
+      "oats",
+      "milk",
+      "honey",
+      "banana"
+    ],
+    "steps": [
+      "Use a clean 3-cup container with a lid. Stir the milk and honey together. Use old-fashioned rolled oats, not steel-cut oats. Prep takes about 5 minutes; no rice cooker is needed.",
+      "Stir in the oats until all are moistened. Cover and refrigerate immediately for at least 8 hours at 40°F or colder; do not soak on the counter.",
+      "In the morning, mash half the banana into the oats and slice the other half over the top. If too thick, stir in water 1 tbsp at a time. The optional thinning water adds no calories.",
+      "For best texture, prepare the night before and eat the next morning. Keep chilled until serving. Add banana just before eating."
+    ],
+    "nutrition": {
+      "scope": "1 breakfast bowl",
+      "calories": 475,
+      "protein": 17,
+      "carbs": 85,
+      "fat": 10,
+      "note": "Estimated by Codex from dry rolled oats (~150 cal per 1/2 cup), regular peanut butter (~190 cal per 2 tbsp), 2% dairy milk (~122 cal per cup) where listed, medium bananas (~105 cal each), and measured honey. Brands and banana size vary; use your package labels. Milk substitutions change calories and protein.",
+      "estimated": true
+    },
+    "credit": "Original combination developed for Usman using the requested ingredients. Linked Quaker page supports the general refrigerated soaking method; these quantities and nutrition estimates are custom, not Quaker’s recipe.",
+    "source": "https://www.quakeroats.com/cooking-and-recipes/overnight-oats-three-ways",
+    "sourceLabel": "General overnight-oats soaking guide (Quaker) ↗"
+  },
+  {
+    "id": "usman-overnight-oats-3",
+    "title": "Peanut Butter & Honey Overnight Oats with Water",
+    "meal": "Breakfast",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "3/4 U.S. cup (60 g) dry old-fashioned rolled oats",
+      "1 U.S. cup (240 ml) cold drinking water",
+      "2 tbsp (32 g) peanut butter",
+      "1 tbsp (21 g) honey",
+      "Optional: 1-3 tbsp water to thin"
+    ],
+    "pantry": [
+      "oats",
+      "peanut butter",
+      "honey"
+    ],
+    "steps": [
+      "Use a clean 3-cup container with a lid. Gradually whisk the water into the peanut butter, then stir in the honey. This version is less creamy than oats made with milk. Use old-fashioned rolled oats, not steel-cut oats. Prep takes about 5 minutes; no rice cooker is needed.",
+      "Stir in the oats until all are moistened. Cover and refrigerate immediately for at least 8 hours at 40°F or colder; do not soak on the counter.",
+      "In the morning, stir thoroughly to distribute the peanut butter. If too thick, stir in water 1 tbsp at a time. The optional thinning water adds no calories.",
+      "For best texture, prepare the night before and eat the next morning. Keep chilled until serving. Add banana just before eating."
+    ],
+    "nutrition": {
+      "scope": "1 breakfast bowl",
+      "calories": 480,
+      "protein": 15,
+      "carbs": 68,
+      "fat": 21,
+      "note": "Estimated by Codex from dry rolled oats (~150 cal per 1/2 cup), regular peanut butter (~190 cal per 2 tbsp), 2% dairy milk (~122 cal per cup) where listed, medium bananas (~105 cal each), and measured honey. Brands and banana size vary; use your package labels. Milk substitutions change calories and protein.",
+      "estimated": true
+    },
+    "credit": "Original combination developed for Usman using the requested ingredients. Linked Quaker page supports the general refrigerated soaking method; these quantities and nutrition estimates are custom, not Quaker’s recipe.",
+    "source": "https://www.quakeroats.com/cooking-and-recipes/overnight-oats-three-ways",
+    "sourceLabel": "General overnight-oats soaking guide (Quaker) ↗"
+  },
+  {
+    "id": "usman-overnight-oats-4",
+    "title": "Large Peanut Butter–Banana Overnight Oats (1,500 Calories)",
+    "meal": "Breakfast",
+    "culture": "Contemporary & fusion",
+    "ingredients": [
+      "2 U.S. cups (160 g) dry old-fashioned rolled oats",
+      "2 U.S. cups (480 ml) 2% milk",
+      "4 tbsp (64 g) peanut butter",
+      "1 tbsp (21 g) honey",
+      "2 medium bananas, added just before serving",
+      "Optional: 2-6 tbsp water to thin"
+    ],
+    "pantry": [
+      "oats",
+      "milk",
+      "peanut butter",
+      "honey",
+      "banana"
+    ],
+    "steps": [
+      "Use a large covered container of at least 8 cups capacity, or divide between two containers. Whisk together the milk, peanut butter, and honey. Use old-fashioned rolled oats, not steel-cut oats. Prep takes about 5 minutes; no rice cooker is needed.",
+      "Stir in the oats until all are moistened. Cover and refrigerate immediately for at least 8 hours at 40°F or colder; do not soak on the counter.",
+      "In the morning, stir well. Mash one banana into the oats and slice the other over the top. This makes a very large meal; divide in half if preferred. If too thick, stir in water 1 tbsp at a time. The optional thinning water adds no calories.",
+      "For best texture, prepare the night before and eat the next morning. Keep chilled until serving. Add banana just before eating."
+    ],
+    "nutrition": {
+      "scope": "1 full large meal (or 2 half portions)",
+      "calories": 1500,
+      "protein": 53,
+      "carbs": 217,
+      "fat": 55,
+      "note": "Estimated by Codex from dry rolled oats (~150 cal per 1/2 cup), regular peanut butter (~190 cal per 2 tbsp), 2% dairy milk (~122 cal per cup) where listed, medium bananas (~105 cal each), and measured honey. Brands and banana size vary; use your package labels. Entire recipe is about 1,500 calories; half is about 750 calories and 27 g protein.",
+      "estimated": true
+    },
+    "credit": "Original combination developed for Usman using the requested ingredients. Linked Quaker page supports the general refrigerated soaking method; these quantities and nutrition estimates are custom, not Quaker’s recipe.",
+    "source": "https://www.quakeroats.com/cooking-and-recipes/overnight-oats-three-ways",
+    "sourceLabel": "General overnight-oats soaking guide (Quaker) ↗"
   }
 ]
